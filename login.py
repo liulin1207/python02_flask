@@ -1,5 +1,5 @@
 def hello():
-	return "hello python"
+	return "git"
 
 print("git")
 
