@@ -1,6 +1,5 @@
-def hello():
-	return "hello python"
-
-print("git")
+a = 11
+b = 22
+c = 33
 
 
